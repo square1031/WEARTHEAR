@@ -100,7 +100,42 @@ img {
     font-size: 20px;
     font-weight: bold;
 }
+.swapchoice{
+    color: #fff;
+}
 
+    .brick {
+                width: 188px;
+                margin: 5px;
+                float: left;
+            }
+            .info {
+                margin-top: -75px;
+                margin-left: 8px;
+                color: #fff;
+                /*float: left;*/
+                line-height: 25%;
+            }
+            .brick img {
+                margin: 0px;
+                padding: 0px;
+                display: block;
+            }
+            .info > div > b{
+                font-size: 24px;
+            }
+            .info > div > p{
+                font-size: 12px;
+            }
+/*    .label{
+        text-align:justify;
+    }
+    .labell{
+        float: left;
+    }
+    .labelr{
+        float: right;
+    }*/
 
 /*.searchfield{
     margin-top: -20px;
