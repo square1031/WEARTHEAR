@@ -1,3 +1,7 @@
+@import url(//fonts.googleapis.com/earlyaccess/cwtexhei.css);
+*{
+    font-family: 'cwTeXHei', sans-serif;
+}
 html {
     height: 100%;
 }
