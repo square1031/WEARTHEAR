@@ -127,6 +127,11 @@ img {
             .info > div > p{
                 font-size: 12px;
             }
+.upload_pic{
+    position: absolute;
+    top:120px;
+    right: 55px;
+}
 /*    .label{
         text-align:justify;
     }
